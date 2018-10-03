@@ -21,7 +21,7 @@ require("yargs")
       yargs
         .option("language", {
           alias: "l",
-          default: "javascript"
+          default: "php"
         })
         .option("write", {
           alias: "w",
